@@ -1,6 +1,6 @@
 # AppEnviosFedex
 
-Este es u aplicativo movil que tiene varias funcionalidades. En primer lugar, el aplicativo permite al usuario ingresar de forma sencilla a un apartado donde mediante el peso y el lugar al que se quiera enviar (Continente y pais), pueda calcular el valor del envio de acuerdo a una tabla de precios que se tiene en la empresa de envios. Además, el sistema permite guardar los datos de cada uno de los envios en una base de datos, donde se pueden modificar los datos, eliminar los datos y agregar nuevos datos de envio.
+Este es un aplicativo movil que tiene varias funcionalidades. En primer lugar, el aplicativo permite al usuario ingresar de forma sencilla a un apartado donde mediante el peso y el lugar al que se quiera enviar (Continente y pais), pueda calcular el valor del envio de acuerdo a una tabla de precios que se tiene en la empresa de envios. Además, el sistema permite guardar los datos de cada uno de los envios en una base de datos, donde se pueden modificar los datos, eliminar los datos y agregar nuevos datos de envio.
 
 ## Objetivo
 Realice Una App que permita gestionar el costo por el servicio de paquetería, basado en el peso del paquete y la zona a la que va dirigido.
