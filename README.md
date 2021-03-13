@@ -13,11 +13,22 @@ Desarrollado en:
 Dependencias:
 
     import androidx.appcompat.app.AppCompatActivity;
-    import android.app.AlertDialog;
     import android.os.Bundle;
+    import android.content.Intent;
     import android.view.View;
-    import android.widget.RadioButton;
-    import com.google.android.material.textfield.TextInputEditText;
+    import android.widget.Button;
+    import android.app.AlertDialog;
+    import android.database.Cursor;
+    import android.database.sqlite.SQLiteDatabase;
+    import android.os.Handler;
+    import android.view.View;
+    import android.widget.AdapterView;
+    import android.widget.ArrayAdapter;
+    import android.widget.EditText;
+    import  android.widget.Spinner;
+    import android.widget.Toast;
+    import android.content.ContentValues;
+
     
 ## Galeria
 
